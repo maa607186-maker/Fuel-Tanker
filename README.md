@@ -7,15 +7,36 @@ Fuel Tracker is a minimum viable product (MVP) web application designed to help 
 
 ## Screens (MVP)
 - Landing / Home (logged out)
+ <img width="1912" height="948" alt="image" src="https://github.com/user-attachments/assets/86ff0b50-8eae-4524-9e25-1441b7f16241" />
+ <img width="1906" height="747" alt="image" src="https://github.com/user-attachments/assets/d103033b-519d-400e-a1a0-dcf4c621c41d" />
+
 - Sign Up
+  <img width="1908" height="938" alt="image" src="https://github.com/user-attachments/assets/c9ffe269-b9c6-4205-98d2-d4dfd78eb1ed" />
+
 - Sign In
+  <img width="1914" height="842" alt="image" src="https://github.com/user-attachments/assets/94c362b6-ac75-4644-9236-d9f1d5c478b0" />
+
 - Dashboard (logged in, with vehicle selector)
+<img width="1915" height="723" alt="image" src="https://github.com/user-attachments/assets/70d3268b-dbae-4e6a-96b2-012da3476570" />
+
 - Vehicle Management (list, add, edit, delete)
+<img width="1911" height="838" alt="image" src="https://github.com/user-attachments/assets/acb90d7e-8a35-4b7a-91fc-990455165816" />
+
 - Add / Edit Fill-Up
+<img width="1900" height="826" alt="image" src="https://github.com/user-attachments/assets/7e75e323-e54f-498d-a222-754fafda3865" />
+
 - History
+<img width="1908" height="932" alt="image" src="https://github.com/user-attachments/assets/c539d082-233c-41b6-8a80-5635a8938ac6" />
+
 - Statistics — Brand/Grade
+<img width="1914" height="657" alt="image" src="https://github.com/user-attachments/assets/02a14eb2-f982-4818-a2ff-41051b7a4203" />
+
 - Settings / Profile
+
 - Legal Pages
+
+<img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/c6fa7eeb-6ca0-417f-9c77-32d8fd298fb1" />
+
 - Error Page
 
 ---
